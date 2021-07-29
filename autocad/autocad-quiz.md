@@ -400,7 +400,7 @@
 
 - [ ] Create Separate Hatches
 - [ ] Associative Boundaries
-- [ ] Set the HATCHMULTIPLE variable to 0 (OFF).
+- [x] Set the HATCHMULTIPLE variable to 0 (OFF).
 - [ ] Set the HATCHMULTIPLE variable to 1 (ON).
 
 #### Q54. AutoCAD allows you to select individual objects cumulatively to create a selection set. You can remove individual objects from that selection by using a mouse click combined with which keystroke?
